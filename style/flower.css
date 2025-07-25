@@ -1,0 +1,98 @@
+/* 
+
+.noto-serif-text {
+  font-family: "Noto Serif", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+.coteiner{
+    width: 1280px;
+    margin: auto;
+
+}
+.nav{
+    display: flex;
+    justify-content:space-between;
+    margin:  30px  150px 0 100px;
+    
+}
+
+.logo-img{
+    width: 140px;
+    height: 80px;
+    
+    
+}
+.memu{
+    display: flex;
+  margin-top: 30px;
+    gap: 30px;
+    padding: auto;
+
+}
+.menu-item{
+   display: flex;
+   gap: 30px;
+    
+
+
+}
+.item-1{
+font-weight: bold;
+}
+.item-4{
+    color: #000;
+}
+.item{
+    color: #8987A1;
+}
+/* banner style 
+.banner{
+    display: flex;
+   margin:;
+   width: 1140px;
+   height: 460px; 
+  margin: auto;
+   align-items:end;
+   
+}
+.banner h1{
+    font-size: 65px;
+    font-weight: bold;
+    color: #000;
+}
+.banner span,h2{
+    color: #E95A08 ;
+      font-size: 65px;
+    font-weight: bold;
+}
+.banner h1 ,h2{
+    line-height: 80px;
+}
+.banner p{
+    color: #000000;
+    max-width: 65%;
+    margin: 15px; 
+}
+.banner-content{
+   
+}
+.banner-img{
+    display: flex;
+    width: 570px;
+    height: 355px; 
+
+}
+/* Mobil skin 
+@media screen and (max-width: 576px) {
+    .nav{
+       justify-items: center;
+    }
+ 
+} */
+ *{
+    margin: o;
+ }
